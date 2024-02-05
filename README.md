@@ -7,6 +7,4 @@ I'm a Software Engineer with experience in designing and building distributed an
   </a>
 </p>
 </br>
-<p align="center">
-  [![KienThanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanhKien00)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![KienThanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanhKien00)](https://github.com/anuraghazra/github-readme-stats)
