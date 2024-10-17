@@ -3,7 +3,7 @@ I'm a Software Engineer with experience in designing and building distributed an
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,mysql,spring,mongodb,kafka" />
+    <img src="https://skillicons.dev/icons?i=idea,java,spring,react,ts,mysql,redis,mongodb,kafka,docker,git,github" />
   </a>
 </p>
 </br>
